@@ -41,3 +41,13 @@ Sample Superstore Dataset (.xlsx)
 
 ## 👩‍💻 Author
 **B. Susheela**
+
+## 📷 Dashboard Preview
+
+### 📈 Sales Analytics Dashboard
+
+![Sales Dashboard](sales-dashboard.png)
+
+### 🔄 Returns Dashboard
+
+![Returns Dashboard](returns-dashboard.png)

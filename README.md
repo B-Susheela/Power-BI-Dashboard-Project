@@ -50,4 +50,4 @@ Sample Superstore Dataset (.xlsx)
 
 ### 🔄 Returns Dashboard
 
-![Returns Dashboard](return-dashboard.png)
+![Returns Dashboard](Return-dashboard.png)

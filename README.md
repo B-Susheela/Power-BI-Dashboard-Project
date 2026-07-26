@@ -46,8 +46,8 @@ Sample Superstore Dataset (.xlsx)
 
 ### 📈 Sales Analytics Dashboard
 
-![Sales Dashboard](sales-dashboard.png)
+![Sales Dashboard](Sales-dashboard.png)
 
 ### 🔄 Returns Dashboard
 
-![Returns Dashboard](returns-dashboard.png)
+![Returns Dashboard](return-dashboard.png)

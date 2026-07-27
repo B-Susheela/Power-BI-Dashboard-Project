@@ -1,53 +1,88 @@
 # 📊 Power BI Dashboard Project
 
 ## 📌 Project Overview
-This repository contains interactive Power BI dashboards built using the Superstore dataset. The dashboards help analyze sales performance and product returns through meaningful visualizations.
 
-## 📂 Dashboards Included
+This repository contains interactive Power BI dashboards built using the Superstore dataset. The dashboards analyze sales performance, return trends, and product & customer insights to support business decision-making.
 
-### 📈 Sales Analytics Dashboard
-- Total Sales
-- Total Profit
-- Total Orders
-- Sales by Category
-- Sales by Region
-- Monthly Sales Trend
-- Top Products
+---
 
-### 🔄 Returns Dashboard
-- Total Returned Orders
-- Return Rate
-- Return Loss
-- Returned Sales by Category
-- Returned Sales by Region
-- Return Trend Analysis
+# 📷 Dashboard Preview
 
-## 🛠️ Tools Used
-- Power BI
-- Microsoft Excel
-- Data Cleaning
-- Data Visualization
-
-## 📁 Dataset
-Sample Superstore Dataset (.xlsx)
-
-## 🎯 Key Skills Demonstrated
-- Data Cleaning
-- Data Modeling
-- DAX Measures
-- KPI Creation
-- Interactive Dashboards
-- Business Insights
-
-## 👩‍💻 Author
-**B. Susheela**
-
-## 📷 Dashboard Preview
-
-### 📈 Sales Analytics Dashboard
+## 📈 Sales Analytics Dashboard
 
 ![Sales Dashboard](sales-dashboard.png)
 
-### 🔄 Returns Dashboard
+---
 
-![Returns Dashboard](return-dashboard.png)
+## 🔄 Returns Dashboard
+
+![Returns Dashboard](returns-dashboard.png)
+
+---
+
+## 👥 Product & Consumer Dashboard
+
+![Product Dashboard](product-consumer-dashboard.png)
+
+---
+
+# 📂 Repository Contents
+
+- 📊 Sales Analytics Dashboard.pbix
+- 📊 Returns & Product-Consumer Dashboard.pbix
+- 📄 Sample - Superstore Dataset (.xlsx)
+
+---
+
+# 📈 Dashboards Included
+
+### Sales Analytics Dashboard
+- Total Sales
+- Total Profit
+- Sales by Category
+- Sales by Region
+- Monthly Sales Trend
+
+### Returns Dashboard
+- Return Rate
+- Return Loss
+- Returned Orders
+- Returned Sales Analysis
+
+### Product & Consumer Dashboard
+- Product Performance
+- Customer Analysis
+- Top Products
+- Regional Performance
+
+---
+
+# 🛠 Tools Used
+
+- Power BI
+- Microsoft Excel
+- Power Query
+- DAX
+
+---
+
+# 🎯 Skills Demonstrated
+
+- Data Cleaning
+- Data Modeling
+- DAX
+- KPI Design
+- Dashboard Development
+- Business Intelligence
+- Data Visualization
+
+---
+
+# 👩‍💻 Author
+
+**B. Susheela**
+
+Data Analyst
+
+
+
